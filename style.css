@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+.header {
+    text-size-adjust: 100px;
+    color: red;
+    text-align:center;
+    background-color: black;
+}
