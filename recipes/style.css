@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.head {
+    background-color: black;
+    color: white;
+}
+
+.para {
+    font-weight:800;
+    font-size: 22px; 
+}
