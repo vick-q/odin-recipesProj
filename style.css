@@ -4,10 +4,13 @@ body {
 
 .header {
     text-size-adjust: 100px;
+    font-weight: 100;
     color: red;
     text-align:center;
-    background-color: black;
+    background-color: grey;
     padding: 20px; 
+    border-style:ridge;
+    border-color:black;
 }
 
 .ul {

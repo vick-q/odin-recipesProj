@@ -10,4 +10,22 @@ body {
 .para {
     font-weight:800;
     font-size: 22px; 
+    text-align: center;
+}
+
+.ul {
+    margin: 20px;
+}
+
+.ol {
+    margin: 20px;
+}
+
+.ingredients {
+    color: green;
+    text-align: center;
+}
+
+.steps {
+    color: brown;
 }
