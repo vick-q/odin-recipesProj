@@ -7,4 +7,17 @@ body {
     color: red;
     text-align:center;
     background-color: black;
+    padding: 20px; 
+}
+
+.ul {
+    text-align: center;
+}
+
+.odds {
+    margin: 20px;
+}
+
+.evens {
+    margin: 20px;
 }
